@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zone Chen
-- 👀 I’m interested in frontend software engineering and data visualization.
-- 🌱 I’m currently learning JavaScript,Java,React,NodeJS,Elastic,Vega
+- 💕 I’m interested in frontend software engineering and data visualization.
+- 🤓 I’m currently learning JavaScript,Java,React,NodeJS,Elastic,Vega
 - 📫 How to reach me : zonachen302@gmail.com
